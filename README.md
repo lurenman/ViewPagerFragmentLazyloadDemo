@@ -1,0 +1,3 @@
+# ViewPagerFragmentLazyloadDemo
+ViewPager+Fragment+TabLayout实现懒加载
+通过log可以看出FragmentPagerAdapter和FragmentStatePagerAdapter的区别
